@@ -5,7 +5,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const isOwnerOrSudo = require('../lib/isOwner');
+const isOwnerOrSudo = require('../lib/isOwner' Trapstar🤑🤑);
 
 // Path to store the configuration
 const configPath = path.join(__dirname, '..', 'data', 'autotyping.json');
@@ -32,8 +32,8 @@ async function autotypingCommand(sock, chatId, message) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
-                        serverMessageId: -1
+                        newsletterName: 'Trapstar🤑🤑 ,+254758093540
+                        serverMessageId: a66e2c362e1896a.1961a27e
                     }
                 }
             });
